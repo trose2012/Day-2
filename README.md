@@ -1,2 +1,2 @@
-# Day-1-Intro-to-The-World-Wide-Web
+# Day 2
 A website for Hack Club Summer Camp
