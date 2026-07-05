@@ -32,3 +32,16 @@ body {
   color: #333;
   margin: 15px 0;
 }
+
+.button {
+  text-decoration: none;
+  border-radius: 50px;
+  border-style: solid;
+}
+
+#time-display {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #333;
+  margin: 15px 0;
+}
