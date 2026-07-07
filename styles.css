@@ -20,12 +20,6 @@ body {
   background-color: aquamarine;
 }
 
-.button {
-  text-decoration: none;
-  border-radius: 50px;
-  border-style: solid;
-}
-
 #time-display {
   font-size: 1.2rem;
   font-weight: bold;
@@ -34,6 +28,7 @@ body {
 }
 
 .button {
+  padding: 10px;
   text-decoration: none;
   border-radius: 50px;
   border-style: solid;

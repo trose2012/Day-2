@@ -10,3 +10,13 @@ function updateTime() {
 updateTime();
 
 setInterval(updateTime, 1000);
+
+function greet() {
+  alert("Oh, Hi! Welcome to my website! Have fun snooping around...")
+  document.getElementById('greet').textContent = ``;
+}
+
+function sneak() {
+  alert("Oh, hey... You found the secret button...")
+  document.getElementById('greet').textContent = ``;
+}
